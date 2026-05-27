@@ -7,6 +7,9 @@
 🎓 Advanced Diploma in Computer Programming and Analysis (Expected Dec 2026)  
 🏆 1st Place, SEC 2025 Hackathon  
 
+## Experience
+- 💼 **AI & Agentic Developer** · LeadManagerCA · Co-op (May – Aug 2026)
+
 ## What I Build
 - 🤖 AI/ML: XGBoost, ResNet50, Agentic AI (Gemini API)
 - 📊 Data & RevOps: SQL (Oracle, PostgreSQL, MongoDB), Excel VBA, HubSpot
@@ -14,10 +17,14 @@
 - 🎮 Game Dev: Unity (C#), Ren'Py
 - 💡 Algorithms: C++, LeetCode problem-solving
 
-## Featured Projects
-- 🧠 **Quietly** — AI friend matching service · McWiCS 2026 Hackathon · TypeScript, React, Gemini API
-- 🎭 **Utopia** — Visual novel game · HuskyHack 2026 Hackathon · Ren'Py
+## Hackathons
+- 🧠 **Quietly** — AI friend matching service · McWiCS 2026 · TypeScript, React, Gemini API
+- 🛡️ **SafeSpot** — Real-time heat alert & cooling center navigator · Raspberry Pi, ArcGIS, Google Maps
+- 🎭 **Utopia** — Visual novel game · HuskyHack 2026 · Ren'Py
 - ✅ **JD Validity Classifier** — 1st Place SEC 2025 · Python, Scikit-learn
+
+## Projects
+- 💻 **codeXperts** — Developer club website
 - 🌐 **ELCA Toronto** — Official website renewal for real client · Next.js 16, TypeScript, i18n
 - 🎲 **lotto-cannon** — Lottery ball animation & fireworks · JavaScript
 - 🎮 **match3** — Color-blind-friendly puzzle game · Unity, C#
