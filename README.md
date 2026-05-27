@@ -32,16 +32,15 @@
 - 💡 Algorithms: C++, LeetCode problem-solving
 
 ## Hackathons
+- ✅ **JD Validity Classifier** — 1st Place SEC 2025 · Python, Scikit-learn
 - 🧠 **Quietly** — AI friend matching service · McWiCS 2026 · TypeScript, React, Gemini API
 - 🛡️ **SafeSpot** — Real-time heat alert & cooling center navigator · Raspberry Pi, ArcGIS, Google Maps
 - 🎭 **Utopia** — Visual novel game · HuskyHack 2026 · Ren'Py
-- ✅ **JD Validity Classifier** — 1st Place SEC 2025 · Python, Scikit-learn
 
 ## Projects
 - 💻 **codeXperts** — Official coding club for Seneca & York University · Member portal, Monaco editor, code runner & AI advisor
-- 🌐 **ELCA Toronto** — Official website renewal for real client · Next.js 16, TypeScript, i18n
-- 🎲 **lotto-cannon** — Lottery ball animation & fireworks · JavaScript
 - 🎮 **match3** — Casual shape-breaking puzzle · 6 shapes, multi-elimination mechanics · Flutter Flame, Dart
+- 🎲 **lotto-cannon** — Lottery ball animation & fireworks · JavaScript
 
 ## Interests
 Hackathons · Revenue Operations · AI Implementation · Open Source
