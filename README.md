@@ -38,7 +38,7 @@
 
 ## Projects
 - 💻 **codeXperts** — Official coding club for Seneca & York University · Member portal, Monaco editor, code runner & AI advisor
-- 🎮 **match3** — Casual shape-breaking puzzle · 6 shapes, multi-elimination mechanics · Flutter Flame, Dart
+- 📱 **FigureOut-ShapeRush** — Casual mobile game · Eliminate 6 shapes in various ways before time runs out · Flutter Flame, Dart
 - 🎲 **lotto-cannon** — Lottery ball animation & fireworks · JavaScript
 
 ## Interests
