@@ -4,7 +4,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
@@ -24,10 +23,10 @@
 - 💼 **AI & Agentic Developer** · LeadManagerCA · Co-op (May – Aug 2026)
 
 ## What I Build
-- 🤖 AI/ML: Scikit-learn, XGBoost, ResNet50, Gemma 4 (open source), Claude API, Gemini API
+- 🤖 AI/ML: Scikit-learn, Gemini API, Gemma 4 (open source)
 - ☁️ Data & Cloud: SQL (Oracle Cloud, PostgreSQL, MongoDB), Supabase, Firebase, Google OAuth, GCloud
 - 💼 RevOps: HubSpot _(Certified)_, Excel VBA
-- 🌐 Full-Stack: TypeScript, JavaScript, Python, Java, Dart · React, Next.js, Node.js, Flutter, Spring Boot
+- 🌐 Full-Stack: TypeScript, JavaScript, Python, Dart · React, Next.js, Node.js, Flutter
 - 🎮 Game Dev: Flutter Flame (Dart), Unity (C#), Ren'Py
 - 💡 Algorithms: C++, LeetCode problem-solving
 
